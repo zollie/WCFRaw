@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub.WCFRaw.Examples.Acord.Api", "GitHub.WCFRaw.Examples.ACORD.Api\GitHub.WCFRaw.Examples.Acord.Api.csproj", "{8DF1F494-FF2F-4D32-8CC1-80707044FE58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub.WCFRaw.Examples.Acord.Test", "GitHub.WCFRaw.Examples.Acord.Test\GitHub.WCFRaw.Examples.Acord.Test.csproj", "{584B90FA-3FF4-42A3-AE78-A115B5375CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub.WCFRaw.Api", "GitHub.WCFRaw.Api\GitHub.WCFRaw.Api.csproj", "{902EBF70-3EE1-4F45-9981-B99D038F691F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub.WCFRaw", "GitHub.WCFRaw\GitHub.WCFRaw.csproj", "{4D2C1DAE-0276-4EAB-AB8C-EE3641B2E4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub.WCFRaw.Examples.Acord", "GitHub.WCFRaw.Examples.Acord\GitHub.WCFRaw.Examples.Acord.csproj", "{E9EFCA23-4D49-43E6-9683-AFAC31B5EAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DF1F494-FF2F-4D32-8CC1-80707044FE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF1F494-FF2F-4D32-8CC1-80707044FE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF1F494-FF2F-4D32-8CC1-80707044FE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF1F494-FF2F-4D32-8CC1-80707044FE58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584B90FA-3FF4-42A3-AE78-A115B5375CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584B90FA-3FF4-42A3-AE78-A115B5375CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584B90FA-3FF4-42A3-AE78-A115B5375CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584B90FA-3FF4-42A3-AE78-A115B5375CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902EBF70-3EE1-4F45-9981-B99D038F691F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902EBF70-3EE1-4F45-9981-B99D038F691F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902EBF70-3EE1-4F45-9981-B99D038F691F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902EBF70-3EE1-4F45-9981-B99D038F691F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2C1DAE-0276-4EAB-AB8C-EE3641B2E4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2C1DAE-0276-4EAB-AB8C-EE3641B2E4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2C1DAE-0276-4EAB-AB8C-EE3641B2E4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2C1DAE-0276-4EAB-AB8C-EE3641B2E4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EFCA23-4D49-43E6-9683-AFAC31B5EAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EFCA23-4D49-43E6-9683-AFAC31B5EAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EFCA23-4D49-43E6-9683-AFAC31B5EAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EFCA23-4D49-43E6-9683-AFAC31B5EAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
